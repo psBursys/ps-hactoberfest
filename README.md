@@ -1,2 +1,1 @@
-# ps-hactoberfest - wijmo grid open cell popup
-ps-hactoberfest - wijmo grid open cell popup
+# 🎃 HacktoberFest Project To Wijmo Popup 🎃
